@@ -16,9 +16,9 @@ x:y
 ... 
 ```
 
-In the random case, x is the experiment #, and y is the total number of succeeded experiment (where everyone lived). 
+In the random case, x is the *experiment #*, and y is the ***current number of succeeded experiment*** (where everyone lived). 
 
-In the strategic case, x is the experiment #, and y is the total survival rate (succeeded/total). 
+In the strategic case, x is the *experiment #*, and y is the ***current total survival rate*** (succeeded/total). 
 
 You'll (hopefully) be able to import this to a spreadsheet software of your choice and plot a graph for the simulations with the outputted text files. 
 
